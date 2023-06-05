@@ -31,7 +31,7 @@ Installation
     Open your browser and visit http://localhost:3000 to view the MI Store Clone.
 
 
-
+![Alt Text](ss_2.png)
 
 
 Enjoy shopping with the MI Store Clone! If you have any questions or need assistance, feel free to reach out.
