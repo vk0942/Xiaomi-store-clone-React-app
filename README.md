@@ -1,7 +1,7 @@
 Xiaomi Store Clone
 
 
-
+![Alt Text](ss_1.png)
 
 This project is a clone of the popular MI Store built using React, JavaScript, HTML, and CSS. The MI Store Clone aims to recreate the user interface and functionality of the original MI Store, providing users with a similar shopping experience.
 Features
